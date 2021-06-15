@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     function getLocation(){
-        fetch('https://ipgeolocation.abstractapi.com/v1/?api_key=b16d49c2021b4770b4f70583a0ea01f0&fields=country,country_code')
+        fetch('https://ipgeolocation.abstractapi.com/v1/?api_key=8f840219f3274981a16520a91fa3096f&fields=country,country_code')
       .then(function (response) {
         return response.json();
       })
