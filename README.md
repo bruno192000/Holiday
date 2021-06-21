@@ -15,7 +15,10 @@ This time, our team has to show how we work together, and no better way to do it
              <li>
                  <a href="#contact">Contact</a>
              </li>
-           
+             <li>
+                 <a href="#license">License</a>
+             </li>
+             
 
 
  
@@ -45,3 +48,15 @@ This time, our team has to show how we work together, and no better way to do it
     <li><a href="https://github.com/slawless08" target="_blank">Samuel Lawless</a></li>
     <li> <a href="https://github.com/sissyhanks" target="_blank">Bernie Mcknight</a></li>
      <li> <a href="https://github.com/bruno192000" target="_blank">Bruno Calderon</a></li>
+
+## <h2 id="license"><i>License</i></h2>
+
+<p>MIT License
+
+Copyright (c) [2021] [Bruno Calderon]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
